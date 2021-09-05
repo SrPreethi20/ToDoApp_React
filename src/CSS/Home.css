@@ -1,0 +1,21 @@
+.heading {
+    font-style: normal;
+    font-weight: bold;
+    color: darkblue;
+}
+label {
+    font-style: italic;
+    font-size: large;
+    color: darkmagenta;
+    font-weight: bold;
+}
+input {
+    width: 60%;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 8px;
+    background-color: lightblue;
+}
+button {
+    border-radius: 8px;
+}

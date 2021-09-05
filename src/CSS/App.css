@@ -1,0 +1,27 @@
+.mainDiv {
+   border-radius: 10px;
+   box-shadow: lightgray;
+   width: 60%;
+   height: 60%;
+   margin-left: 20%;
+   padding-bottom: 15px;
+   text-align: center;
+   position: relative; 
+   background-color: lightgray;
+}
+.subDiv {
+    background-color: rgb(4, 4, 51);
+    color: white;
+    padding: 5px;
+    padding-bottom: 0;
+    font-size: xx-large;
+    font-weight: bold;
+   border-radius: 10px;
+}
+.link {
+   text-align : left;
+   font-size: large;
+   padding-bottom: 0%;
+   color: white;
+}
+
